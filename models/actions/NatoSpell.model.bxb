@@ -1,0 +1,9 @@
+action (NatoSpell) {
+     type (Calculation)
+     collect {
+       input (textToSpell) {
+         type (TextToSpellConcept)
+       }
+     }
+     output (NatoSpellResultConcept)
+   }

@@ -1,0 +1,33 @@
+ result-view {
+   match {
+     NatoSpellResultConcept (natoSpellResult)
+   }
+
+   render {
+     layout {
+       section {
+         content {
+          single-line {
+            text {
+              style(Label_M_Soft)
+              value ("You Said:")
+            }
+          }
+          paragraph ("#{value(natoSpellResult.textToSpell)}") {
+              style (Title_XL)
+          }
+          single-line {
+            text {
+              style (Label_M_Soft)
+              value ("Nato Spelling:")
+            }
+          }
+          paragraph ("#{value(natoSpellResult.natoSpelling)}") {
+            style (Title_XL)
+          }
+
+       }
+     }
+   }
+ }
+}

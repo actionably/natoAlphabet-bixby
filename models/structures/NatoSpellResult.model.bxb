@@ -1,0 +1,10 @@
+structure (NatoSpellResultConcept) {
+  description (The original text.)
+  property (textToSpell) {
+    type (TextToSpellConcept)
+  }
+  property (natoSpelling) {
+    description (The resulting spelled text.)
+    type (NatoSpelling)
+  }      
+}

@@ -1,0 +1,24 @@
+description {
+  displayName (NATO Alphabet)
+  companyName (Dennis Yang)
+  iconUrl (images/nato-shield.png)
+  description ("Spells words using the NATO Phonetic Alphabet")
+  websiteUrl (https://dennisyang.com/)
+  termsUrl (https://dennisyang.com/terms.html)
+  privacy-policy-url (https://dennisyang.com/privacy.html)
+  search-keywords{
+    keyword (spelling)
+    keyword (spell)
+    keyword (phonetic)
+    keyword (nato)
+    keyword (military)
+  }
+  dispatch-name (NATO Alphabet)
+  dispatch-aliases {
+    alias (Nato Spell)
+    alias (Military Alphabet)
+    alias (Phonetic Alphabet)
+    alias (Phonetic Translator)
+    alias (Phonetic Spell)
+  }
+}

@@ -1,0 +1,8 @@
+dialog (Result) {
+   match {
+     // Look for this type
+     NatoSpellResultConcept
+   }
+   // Use this template text with this type
+   template("NATO Alphabet")
+ }

@@ -1,0 +1,5 @@
+train (t-5cokpj6szrag5bmm22s4hvm34) {
+  utterance ("[g:NatoSpellResultConcept] (send me everything)[v:TextToSpellConcept]")
+  plan (Y2Bm0E5JLM5Iyi/Ry0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShjk8CtmUMcqH5JaURICUQEziImBEYgZgCQjAwgwQTAA)
+  last-modified (1560025430607)
+}

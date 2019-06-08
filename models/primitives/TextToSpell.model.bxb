@@ -1,0 +1,3 @@
+text (TextToSpellConcept) {
+  description (The text to spell.)
+}
