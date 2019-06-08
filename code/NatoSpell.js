@@ -33,9 +33,15 @@ module.exports.function = function natoSpell(textToSpell, $vivContext) {
   var natoSpelling = 'NATO'
   var natoUrl = "https://subdued-rook.glitch.me/nato-spell/?word=" + encodeURI(textToSpell)
   var natoResponse = http.getUrl(natoUrl)
-  var natoJSON = JSON.parse(natoResponse)
-  console.log('natoResponse: ', natoJSON)
-  natoSpelling = natoJSON.phonetic.codewords
+  console.log('response ', natoResponse)
+  if (natoResponse) {
+    var natoJSON = JSON.parse(natoResponse)
+    console.log('natoResponse: ', natoJSON)
+    if (natoJSON) {
+        natoSpelling = natoJSON.phonetic.codewords
+    }
+  }
+
   
   // dashbot integration
   var dashbotOutgoingUrl = config.get('dashbotOutgoingUrl') + dashbotApiKey;
@@ -44,6 +50,9 @@ module.exports.function = function natoSpell(textToSpell, $vivContext) {
     text: natoSpelling,
     intent: {
       name: "NatoSpell"
+    },
+    platformJson: {
+      natoResponse: natoJSON
     },
     platformUserJson: $vivContext
   }
