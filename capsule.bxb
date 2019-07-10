@@ -1,7 +1,7 @@
 capsule {
   id (dashbot.natoAlphabet)
   format (3)
-  version (0.1.4)
+  version (1.0.0)
   targets {
     target (bixby-mobile-en-US)
     target (bixby-mobile-ko-KR){enabled (false)}
