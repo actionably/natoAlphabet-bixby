@@ -1,0 +1,5 @@
+train (t-enncqhjaz0z5ecrf8iy4a6134) {
+  utterance ("[g:NatoSpellResultConcept] what is the military spelling for (chairman)[v:TextToSpellConcept]")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561683561681)
+}

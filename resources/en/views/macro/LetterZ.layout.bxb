@@ -1,0 +1,32 @@
+layout-macro-def (letter-z) {
+  params {
+    param (this) {
+       type (NatoAlphabetResult)
+    }
+    param (index) {
+      type (viv.core.Integer)
+    }
+  }
+  content {
+    hbox {
+      content {
+        vbox {
+          halign (Center)
+          grow (1)
+          content {
+            single-line {
+              text ("#{value (this.natoletter[index].letter)}") {
+                style (Title_L)
+              }
+            }
+            single-line {
+              text ("#{value (this.natoletter[index].natoSpelling)}") {
+                style (Detail_M_Soft)
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,5 @@
+train (t-2dkt45of2nfc5k4dx49fptt83) {
+  utterance ("[g:NatoSpellResultConcept] spell (computer)[v:TextToSpellConcept] using nato phonetic alphabet")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561678118421)
+}

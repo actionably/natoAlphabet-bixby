@@ -1,0 +1,65 @@
+result-view {
+   match {
+     NatoAlphabetResult (this)
+   }
+  render {
+    layout {
+      section {
+        content {
+          compound-card {
+            content {
+              layout-macro (letters-in-row) {
+                param (this) {
+                  expression (this)
+                }
+                param (index) {
+                  expression (0)
+                }
+              }
+              layout-macro (letters-in-row) {
+                param (this) {
+                  expression (this)
+                }
+                param (index) {
+                  expression (5)
+                }
+              }
+               layout-macro (letters-in-row) {
+                param (this) {
+                  expression (this)
+                }
+                param (index) {
+                  expression (10)
+                }
+              }
+               layout-macro (letters-in-row) {
+                param (this) {
+                  expression (this)
+                }
+                param (index) {
+                  expression (15)
+                }
+              }
+               layout-macro (letters-in-row) {
+                param (this) {
+                  expression (this)
+                }
+                param (index) {
+                  expression (20)
+                }
+              }
+              layout-macro (letter-z) {
+                param (this) {
+                  expression (this)
+                }
+                param (index) {
+                  expression (25)
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

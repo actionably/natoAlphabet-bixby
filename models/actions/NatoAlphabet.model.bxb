@@ -1,0 +1,5 @@
+action (NatoAlphabet) {
+  description (Displaying the Nato phonetic alphabet)
+  output (NatoAlphabetResult)
+  type (Search)
+}

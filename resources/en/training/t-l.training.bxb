@@ -1,0 +1,15 @@
+train (t-l2mdibxw32ia3a0l5627p4snm) {
+  utterance ("[g:NatoSpellResultConcept] how do I say (cat)[v:TextToSpellConcept] in military speak")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561681858965)
+}
+train (t-lan0gq4iatfm2v66b0zv56u3y) {
+  utterance ([g:NatoAlphabet] show me the alphabet)
+  plan (Y2Bi0CrISaxML8ovzUvRy0ssyXfMKchITEot0fND4gSlFpfmlDCoEKOWgREIGaAYSAIA)
+  last-modified (1562019567570)
+}
+train (t-lf3jzsgxv1gjxzt6s9l2w5c8y) {
+  utterance ([g:NatoAlphabet] show me the phonetic alphabet)
+  plan (Y2Bi0CrISaxML8ovzUvRy0ssyXfMKchITEot0fND4gSlFpfmlDCoEKOWgREIGaAYSAIA)
+  last-modified (1562017865377)
+}

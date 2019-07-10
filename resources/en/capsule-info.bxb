@@ -1,10 +1,10 @@
-description {
-  displayName (NATO Alphabet)
-  companyName (Dennis Yang)
-  iconUrl (images/nato-shield.png)
+capsule-info {
+  display-name (NATO Alphabet)
+  developer-name (Dennis Yang)
+  icon-asset (images/nato-shield.png)
   description ("Spells words using the NATO Phonetic Alphabet")
-  websiteUrl (https://dennisyang.com/)
-  termsUrl (https://dennisyang.com/terms.html)
+  website-url (https://dennisyang.com/)
+  terms-url (https://dennisyang.com/terms.html)
   privacy-policy-url (https://dennisyang.com/privacy.html)
   search-keywords{
     keyword (spelling)

@@ -1,0 +1,39 @@
+layout-macro-def (letters-in-row) {
+  params {
+    param (this) {
+       type (NatoAlphabetResult)
+    }
+    param (index) {
+      type (viv.core.Integer)
+    }
+  }
+  content {
+    hbox {
+      content {
+        for-each (this.natoletter) {
+          as (item) {
+            index-var (i)
+            if (i >= index && i < index + 5) {
+              vbox {
+                halign (Center)
+                grow (1)
+                content {
+                  single-line {
+                    text ("#{value (item.letter)}") {
+                      style (Title_L)
+                    }
+                  }
+                  single-line {
+                    text ("#{value (item.natoSpelling)}") {
+                      style (Detail_M_Soft)
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

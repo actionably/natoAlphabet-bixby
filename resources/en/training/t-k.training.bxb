@@ -1,0 +1,15 @@
+train (t-k4cfxu88s8r99cpy53qjh8eid) {
+  utterance ([g:NatoAlphabet] can you give me the nato alphabet)
+  plan (Y2Bi0CrISaxML8ovzUvRy0ssyXfMKchITEot0fND4gSlFpfmlDCoEKOWgREIGaAYSAIA)
+  last-modified (1562018705319)
+}
+train (t-kldaa2v22i1iszhxpyt7en9kv) {
+  utterance ("[g:NatoSpellResultConcept] spell the word (crime)[v:TextToSpellConcept] using military alphabet")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561677509487)
+}
+train (t-kx5vi37b7lpkg0aqxcix5oq8y) {
+  utterance ("[g:NatoSpellResultConcept] spell the word (winter)[v:TextToSpellConcept] using nato phonetic alphabet")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561678159436)
+}

@@ -1,5 +1,25 @@
+train (t-d15hixyvtwiz8afehw57r8s2t) {
+  utterance ([g:NatoAlphabet] show me alphabet)
+  plan (Y2Bi0CrISaxML8ovzUvRy0ssyXfMKchITEot0fND4gSlFpfmlDCoEKOWgREIGaAYSAIA)
+  last-modified (1562017913669)
+}
+train (t-de6djjrk07q4hbja9qiuf0hj3) {
+  utterance ([g:NatoAlphabet] show me the nato alphabet)
+  plan (Y2Bi0CrISaxML8ovzUvRy0ssyXfMKchITEot0fND4gSlFpfmlDCoEKOWgREIGaAYSAIA)
+  last-modified (1562019300784)
+}
 train (t-dh2y815kzfd140zxy3dgouvzh) {
   utterance ("[g:NatoSpellResultConcept] (how are you)[v:TextToSpellConcept]")
   plan (Y2Bm0E5JLM5Iyi/Ry0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShjk8CtmUMcqH5JaURICUQEziImBEYgZgCQjAwgwQTAA)
   last-modified (1560024647455)
+}
+train (t-djacoxbtz5a8bm07njszskwb5) {
+  utterance ([g:NatoAlphabet] can you give me the alphabet table)
+  plan (Y2Bi0CrISaxML8ovzUvRy0ssyXfMKchITEot0fND4gSlFpfmlDCoEKOWgREIGaAYSAIA)
+  last-modified (1562019051918)
+}
+train (t-dt2axusqtpwfgw70lx5cavryz) {
+  utterance ("[g:NatoSpellResultConcept] spell (love you to the moon and back)[v:TextToSpellConcept]")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561676542061)
 }

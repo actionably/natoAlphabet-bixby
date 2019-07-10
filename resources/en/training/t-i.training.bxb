@@ -3,3 +3,23 @@ train (t-i6m7br8bjxm24qjdfe5hrstem) {
   plan (Y2Bm0E5JLM5Iyi/Ry0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShjk8CtmUMcqH5JaURICUQEziImBEYgZgCQjAwgwQTAA)
   last-modified (1560024629783)
 }
+train (t-itgn6hgntdih35ba1we2akygd) {
+  utterance ("[g:NatoSpellResultConcept] spell (cat sleep)[v:TextToSpellConcept] using nato phonetic alphabet")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561678076935)
+}
+train (t-ius7ryk64pxgf5sfkh433n6fe) {
+  utterance ("[g:NatoSpellResultConcept] tell me what letter (u)[v:TextToSpellConcept] is")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561742950836)
+}
+train (t-iwdjl90atgak5vga9scga5o4r) {
+  utterance ([g:NatoAlphabet] Give me nato phonetic alphabet table)
+  plan (Y2Bi0CrISaxML8ovzUvRy0ssyXfMKchITEot0fND4gSlFpfmlDCoEKOWgREIGaAYSAIA)
+  last-modified (1562018988481)
+}
+train (t-iwokotytsvx50s3v35hid2n63) {
+  utterance ("[g:NatoSpellResultConcept] how do I spell (I love you)[v:TextToSpellConcept] in miltary")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561679647089)
+}

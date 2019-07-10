@@ -1,0 +1,10 @@
+train (t-p40c3xv8lbaoiw10nfozrf2tq) {
+  utterance ([g:NatoAlphabet] can you show me the alphabet chart)
+  plan (Y2Bi0CrISaxML8ovzUvRy0ssyXfMKchITEot0fND4gSlFpfmlDCoEKOWgREIGaAYSAIA)
+  last-modified (1562018357250)
+}
+train (t-p6vi4rpkc6ppqf5yco27tg5q9) {
+  utterance ("[g:NatoSpellResultConcept] how do I spell (career)[v:TextToSpellConcept]")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561678795460)
+}

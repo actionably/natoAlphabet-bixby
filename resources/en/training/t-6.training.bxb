@@ -1,0 +1,10 @@
+train (t-677xvvlkp8o0zoiby3j9ptsn3) {
+  utterance ("[g:NatoSpellResultConcept] what (a)[v:TextToSpellConcept] is")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561683100149)
+}
+train (t-6gimickiso0mnbhpgg30o5jv5) {
+  utterance ("[g:NatoSpellResultConcept] how to spell the word (floor)[v:TextToSpellConcept]")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561743292172)
+}

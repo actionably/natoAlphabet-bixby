@@ -1,0 +1,10 @@
+train (t-mmtk6mlxon0ubro7y0342p42h) {
+  utterance ([g:NatoAlphabet] I need the alphabet chart)
+  plan (Y2Bi0CrISaxML8ovzUvRy0ssyXfMKchITEot0fND4gSlFpfmlDCoEKOWgREIGaAYSAIA)
+  last-modified (1562018501193)
+}
+train (t-molbdwchcuzmq5ka6frixjsn3) {
+  utterance ([g:NatoAlphabet] show me the chart for the nato phonetic alphabet)
+  plan (Y2Bi0CrISaxML8ovzUvRy0ssyXfMKchITEot0fND4gSlFpfmlDCoEKOWgREIGaAYSAIA)
+  last-modified (1562018205842)
+}

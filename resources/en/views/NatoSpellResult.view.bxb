@@ -25,9 +25,8 @@
           paragraph ("#{value(natoSpellResult.natoSpelling)}") {
             style (Title_XL)
           }
-
-       }
-     }
-   }
- }
+        }
+      }
+    }
+  }
 }

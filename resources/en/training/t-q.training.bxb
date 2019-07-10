@@ -1,0 +1,10 @@
+train (t-q2g2tl7oooc0wy4jo8md644m8) {
+  utterance ("[g:NatoSpellResultConcept] spelling for (cat)[v:TextToSpellConcept]")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561743485735)
+}
+train (t-qx2uzyy2g81ufcs80kuc2hylc) {
+  utterance ([g:NatoAlphabet] show me the nato phonetic alphabet)
+  plan (Y2Bi0CrISaxML8ovzUvRy0ssyXfMKchITEot0fND4gSlFpfmlDCoEKOWgREIGaAYSAIA)
+  last-modified (1562017845623)
+}

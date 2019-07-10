@@ -1,0 +1,10 @@
+train (t-xlaflpgsijdz1rzpef24c6nud) {
+  utterance ("[g:NatoSpellResultConcept] spell (cat)[v:TextToSpellConcept] using military alphabet ")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561677002168)
+}
+train (t-xlsqw7tr4qre3x5o32dbrvcz2) {
+  utterance ("[g:NatoSpellResultConcept] spell the phrase (I'll get back to you asap)[v:TextToSpellConcept]")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561677330048)
+}

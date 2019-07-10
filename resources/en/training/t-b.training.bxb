@@ -1,0 +1,15 @@
+train (t-b3virc5h7r2ar26mi4v8ovgvn) {
+  utterance ("[g:NatoSpellResultConcept] spell the word (niece)[v:TextToSpellConcept] using nato alphabet")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561677469001)
+}
+train (t-bryk1rchrjcwppvh664ip8vbm) {
+  utterance ([g:NatoAlphabet] I need a chart for the military alphabet)
+  plan (Y2Bi0CrISaxML8ovzUvRy0ssyXfMKchITEot0fND4gSlFpfmlDCoEKOWgREIGaAYSAIA)
+  last-modified (1562018542506)
+}
+train (t-bwp6qq54dmrfjp70cv9bfpd46) {
+  utterance ("[g:NatoSpellResultConcept] what is the spelling for (dog)[v:TextToSpellConcept]")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561683520631)
+}

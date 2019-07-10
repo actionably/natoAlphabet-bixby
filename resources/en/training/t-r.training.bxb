@@ -1,0 +1,30 @@
+train (t-r3b0sc7f9ctsji29zrn0r0dzj) {
+  utterance ("[g:NatoSpellResultConcept] what is letter (b)[v:TextToSpellConcept] in nato alphabet")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561682733870)
+}
+train (t-r66jhmziyyylgqmvhul2io7ko) {
+  utterance ("[g:NatoSpellResultConcept] what is the nato spelling for (cold weather)[v:TextToSpellConcept]")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561683606615)
+}
+train (t-rfmmswbq5002ejl8g5g56l7hb) {
+  utterance ([g:NatoAlphabet] I need the nato alphabet chart)
+  plan (Y2Bi0CrISaxML8ovzUvRy0ssyXfMKchITEot0fND4gSlFpfmlDCoEKOWgREIGaAYSAIA)
+  last-modified (1562018482607)
+}
+train (t-rg0jbe0tkdk7ng3fly7fj2ev9) {
+  utterance ("[g:NatoSpellResultConcept] what word stands for (r)[v:TextToSpellConcept]")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561682985666)
+}
+train (t-rgm5iod191kvg1ppx1ztq3egs) {
+  utterance ("[g:NatoSpellResultConcept] tell me what (q)[v:TextToSpellConcept] is")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561742843522)
+}
+train (t-rthi63pr8s74upps4tgttzxc2) {
+  utterance ("[g:NatoSpellResultConcept] spell the word (neighbor)[v:TextToSpellConcept]")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561677266179)
+}

@@ -1,0 +1,8 @@
+dialog (Result) {
+   match {
+     NatoAlphabetResult
+   }
+  template("NATO Phonetic Alphabet") {
+    speech ("Okay, here is the alphabet")
+  }
+ }

@@ -1,0 +1,10 @@
+train (t-gb8naq8lx7j6u92kvumm4ufw5) {
+  utterance ("[g:NatoSpellResultConcept] how to spell (car)[v:TextToSpellConcept]")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561679017503)
+}
+train (t-gqbe8q8682tli17xdm658sgwq) {
+  utterance ([g:NatoAlphabet] give me the chart for the nato alphabet)
+  plan (Y2Bi0CrISaxML8ovzUvRy0ssyXfMKchITEot0fND4gSlFpfmlDCoEKOWgREIGaAYSAIA)
+  last-modified (1562018687447)
+}

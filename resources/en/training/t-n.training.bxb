@@ -1,0 +1,15 @@
+train (t-n77dzvnbv5qdmvbzqx6k64879) {
+  utterance ([g:NatoAlphabet] give me the table for the nato alphabet)
+  plan (Y2Bi0CrISaxML8ovzUvRy0ssyXfMKchITEot0fND4gSlFpfmlDCoEKOWgREIGaAYSAIA)
+  last-modified (1562019022448)
+}
+train (t-nva18usabnj6n1oe3u6ytr953) {
+  utterance ("[g:NatoSpellResultConcept] spell (as soon as possible)[v:TextToSpellConcept] using military alphabet")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561677042124)
+}
+train (t-nwl3h26t13qm4fz221r0nbewv) {
+  utterance ([g:NatoAlphabet] give me the alphabet)
+  plan (Y2Bi0CrISaxML8ovzUvRy0ssyXfMKchITEot0fND4gSlFpfmlDCoEKOWgREIGaAYSAIA)
+  last-modified (1562018647988)
+}

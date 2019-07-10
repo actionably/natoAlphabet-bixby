@@ -1,0 +1,10 @@
+train (t-wcjtadhf2cxs3qzwy9jpt7iep) {
+  utterance ([g:NatoAlphabet] show me phonetic alphabet)
+  plan (Y2Bi0CrISaxML8ovzUvRy0ssyXfMKchITEot0fND4gSlFpfmlDCoEKOWgREIGaAYSAIA)
+  last-modified (1562017901900)
+}
+train (t-wszm6kf9fpzlxj07mpw8aiqn1) {
+  utterance ("[g:NatoSpellResultConcept] spell (I love you)[v:TextToSpellConcept] using NATO alphabet")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561676885384)
+}

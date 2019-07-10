@@ -1,0 +1,7 @@
+structure (NatoAlphabetResult) {
+  description (Nato Alphabet)
+  property (natoletter) {
+    type (NatoLetter)
+    min (Required) max (Many)
+  }    
+}

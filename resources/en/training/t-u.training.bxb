@@ -1,3 +1,13 @@
+train (t-usa4y75qn09tsqwoyq2dcxv14) {
+  utterance ("[g:NatoSpellResultConcept] what (q)[v:TextToSpellConcept] is in nato alphabet")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561683260431)
+}
+train (t-uu38nhbmz1dlwowfux12ilu70) {
+  utterance ("[g:NatoSpellResultConcept] what's (h)[v:TextToSpellConcept] in nato alphabet")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561682244795)
+}
 train (t-ux8lnu2kyyjwvwah8i66kl2ly) {
   utterance ("[g:NatoSpellResultConcept] (dog)[v:TextToSpellConcept]")
   plan (Y2Bm0E5JLM5Iyi/Ry0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShjk8CtmUMcqH5JaURICUQEziImBEYgZgCQjAwgwQTAA)

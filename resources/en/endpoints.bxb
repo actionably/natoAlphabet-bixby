@@ -4,5 +4,9 @@ endpoints {
        accepted-inputs (textToSpell, $vivContext)
        local-endpoint ("NatoSpell.js")
      }
+    action-endpoint (NatoAlphabet) {
+      accepted-inputs ()
+      local-endpoint ("NatoAlphabet.js")
+    }
    }
 }

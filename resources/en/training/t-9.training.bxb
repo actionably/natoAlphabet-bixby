@@ -1,3 +1,8 @@
+train (t-96w478126su9w5iydr00q9unj) {
+  utterance ("[g:NatoSpellResultConcept] what word stands for (h)[v:TextToSpellConcept] in phonetic alphabet?")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561682773066)
+}
 train (t-9kjtj50f4ewskaa8kz8jqups4) {
   utterance ("[g:NatoSpellResultConcept] (what about this)[v:TextToSpellConcept]")
   plan (Y2Bm0E5JLM5Iyi/Ry0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShjk8CtmUMcqH5JaURICUQEziImBEYgZgCQjAwgwQTAA)

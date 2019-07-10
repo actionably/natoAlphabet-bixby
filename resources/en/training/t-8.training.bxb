@@ -1,0 +1,5 @@
+train (t-8jp80gkcoyx18rl4jjc1o6wef) {
+  utterance ([g:NatoAlphabet] give me the table)
+  plan (Y2Bi0CrISaxML8ovzUvRy0ssyXfMKchITEot0fND4gSlFpfmlDCoEKOWgREIGaAYSAIA)
+  last-modified (1562019067457)
+}

@@ -1,0 +1,5 @@
+train (t-v59qwwg0gca5i9epe1tpkj7jb) {
+  utterance ("[g:NatoSpellResultConcept] How do you spell (engine)[v:TextToSpellConcept] in military")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561679310887)
+}

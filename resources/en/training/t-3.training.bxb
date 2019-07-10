@@ -1,0 +1,10 @@
+train (t-3he0zdk0k7p89q40lqlb98pvm) {
+  utterance ("[g:NatoSpellResultConcept] what word stands for letter (k)[v:TextToSpellConcept]")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561683039973)
+}
+train (t-3xvjc8upjapb82ypc10blndbn) {
+  utterance ("[g:NatoSpellResultConcept] spell (dog)[v:TextToSpellConcept] with nato phonetic alphabet")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561678684705)
+}

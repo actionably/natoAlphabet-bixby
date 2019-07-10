@@ -1,0 +1,14 @@
+structure (NatoLetter) {
+  description (A letter in Nato Alphabet)
+  property (letter) {
+    type (viv.core.Text)
+    min (Required)
+    max (One)
+    visibility (Private)
+  }
+  property (natoSpelling) {
+    type (NatoSpelling)
+    min (Required)
+    max (One)
+  }      
+}

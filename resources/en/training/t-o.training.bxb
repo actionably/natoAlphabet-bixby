@@ -1,0 +1,10 @@
+train (t-o4asghnvva75eyw3kxhn7qni0) {
+  utterance ([g:NatoAlphabet] show me the chart for nato alphabet)
+  plan (Y2Bi0CrISaxML8ovzUvRy0ssyXfMKchITEot0fND4gSlFpfmlDCoEKOWgREIGaAYSAIA)
+  last-modified (1562018167709)
+}
+train (t-o981g7qsr8hocvu9wnwobycgl) {
+  utterance ("[g:NatoSpellResultConcept] what (b)[v:TextToSpellConcept] in military alphabet is")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561683149025)
+}

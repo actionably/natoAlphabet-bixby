@@ -1,3 +1,13 @@
+train (t-021iuu1ak5ek68r24e8qkwba1) {
+  utterance ([g:NatoAlphabet] show me phonetic alphabet chart)
+  plan (Y2Bi0CrISaxML8ovzUvRy0ssyXfMKchITEot0fND4gSlFpfmlDCoEKOWgREIGaAYSAIA)
+  last-modified (1562018139283)
+}
+train (t-0go3u61zfsiudh3h5o82gqyhv) {
+  utterance ("[g:NatoSpellResultConcept] how do you spell (enemy)[v:TextToSpellConcept]")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561678918857)
+}
 train (t-0wvk3rwyu24crmmempk4w7qmg) {
   utterance ("[g:NatoSpellResultConcept] spell (hamburger)[v:TextToSpellConcept]")
   plan (Y2Bm0E5JLM5Iyi/Ry0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShjk8CtmUMcqH5JaURICUQEziImBEYgZgCQjAwgwQTAA)

@@ -1,0 +1,15 @@
+train (t-4dwvhz2ekxaqh9z034tytkm6v) {
+  utterance ("[g:NatoSpellResultConcept] tell me what (b)[v:TextToSpellConcept] is in phonetic alphabet")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561742825047)
+}
+train (t-4msrrld3tph8q5fizirj17i7w) {
+  utterance ("[g:NatoSpellResultConcept] How do you say (thank you)[v:TextToSpellConcept] in military speak")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561681911503)
+}
+train (t-4xfop8jeudxcwvql13jl0rnl8) {
+  utterance ("[g:NatoSpellResultConcept] what is (a)[v:TextToSpellConcept]")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561682667800)
+}

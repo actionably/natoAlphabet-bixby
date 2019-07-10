@@ -1,0 +1,8 @@
+hints {
+  uncategorized {
+    utterance (Spell potato.)
+    utterance (How do I say combine harvester in military speak?)
+    utterance (Show me the phonetic alphabet.)
+    utterance (What is G in military alphabet?)
+  }
+}

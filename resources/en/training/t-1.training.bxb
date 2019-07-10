@@ -1,0 +1,10 @@
+train (t-1bedkv5zym1h2vlbqbr4sasn2) {
+  utterance ("[g:NatoSpellResultConcept] what word stands for letter (a)[v:TextToSpellConcept] in military alphabet")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561682879718)
+}
+train (t-1gwsx7g7rp62kwtnsttysxb6k) {
+  utterance ("[g:NatoSpellResultConcept] spelling for (washing machine)[v:TextToSpellConcept]")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561743575034)
+}

@@ -1,3 +1,28 @@
+train (t-y10jkp9ccw7hiho48oj18cbsq) {
+  utterance ("[g:NatoSpellResultConcept] how to spell (United Nations)[v:TextToSpellConcept] in military")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561679500820)
+}
+train (t-y20zsvbryghzougdsq6zkli91) {
+  utterance ("[g:NatoSpellResultConcept] How do I spell (get it done asap)[v:TextToSpellConcept]")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561678835072)
+}
+train (t-y8vco14j4q75rw6llx2o5bunj) {
+  utterance ("[g:NatoSpellResultConcept] Ho to spell (electric short circuit)[v:TextToSpellConcept] in military")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561679413281)
+}
+train (t-ycinzzguomhpfzi98ebrdm2gd) {
+  utterance ("[g:NatoSpellResultConcept] what is (g)[v:TextToSpellConcept] in military alphabet")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561682137968)
+}
+train (t-yj55haf6mkaar66kig8dshg4x) {
+  utterance ("[g:NatoSpellResultConcept] how to say (hello)[v:TextToSpellConcept] in military speak")
+  plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)
+  last-modified (1561682032569)
+}
 train (t-yx3g9f4gjxgcz8y7s94ycdnkh) {
   utterance ("[g:NatoSpellResultConcept] (potato)[v:TextToSpellConcept]")
   plan (Y2Bm0E5JLM5Iyi/Ry0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShjk8CtmUMcqH5JaURICUQEziImBEYgZgCQjAwgwQTAA)
