@@ -1,3 +1,7 @@
+train (t-66s5x7koh2nk2cozxeu1e2fgq) {
+  utterance (show alphabet please)
+  last-modified (1567722441106)
+}
 train (t-677xvvlkp8o0zoiby3j9ptsn3) {
   utterance ("[g:NatoSpellResultConcept] what (a)[v:TextToSpellConcept] is")
   plan (Y2Bm0CvISaxML8ovzUvRy0ssyXfMKchITEot0fMDcoILUnNyglKLS3NKnPPzklMLShgUCapn0MKlJCS1oiQEoghmHBMDIxAzAElGBhBggmAA)

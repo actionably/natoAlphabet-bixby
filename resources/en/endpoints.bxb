@@ -5,7 +5,7 @@ endpoints {
        local-endpoint ("NatoSpell.js")
      }
     action-endpoint (NatoAlphabet) {
-      accepted-inputs ()
+      accepted-inputs ($vivContext)
       local-endpoint ("NatoAlphabet.js")
     }
    }
