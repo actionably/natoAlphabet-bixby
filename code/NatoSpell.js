@@ -6,28 +6,12 @@ var http = require('http')
 var console = require('console')
 var config = require('config')
 var secret = require('secret')
+var dashbot = require('./lib/dashbot-lib');
 
 module.exports.function = function natoSpell(textToSpell, $vivContext) {
 
-  // dashbot integration
-  var dashbotApiKey = secret.get('dashbotApiKey')
-  var dashbotIncomingUrl = config.get('dashbotIncomingUrl') + dashbotApiKey
-  var dashbotIncomingJson = {
-    userId: $vivContext.userId ? $vivContext.userId : 'no-id',
-    text: textToSpell,
-    intent: {
-      name: "SpellWord"
-    },
-    platformUserJson: $vivContext
-  }
-  console.log('dashbotIncomingJson', dashbotIncomingJson)
-  var options = {
-    passAsJson: true, 
-    returnHeaders: true,
-    headers: { "Content-Type": "application/json"},
-    format: 'json'
-  }
-  var response = http.postUrl(dashbotIncomingUrl, dashbotIncomingJson, options);
+  // dashbot integration 
+  dashbot.logIncoming(textToSpell, "SpellWord", $vivContext);
 
   // convert textToSpell to NATO
   var natoSpelling = 'NATO'
@@ -37,19 +21,8 @@ module.exports.function = function natoSpell(textToSpell, $vivContext) {
   console.log('natoResponse: ', natoJSON)
   natoSpelling = natoJSON.phonetic.codewords
   
-  // dashbot integration
-  var dashbotOutgoingUrl = config.get('dashbotOutgoingUrl') + dashbotApiKey;
-  var dashbotOutgoingJson = {
-    userId: $vivContext.userId ? $vivContext.userId : 'no-id',
-    text: natoSpelling,
-    intent: {
-      name: "NatoSpell"
-    },
-    platformUserJson: $vivContext
-  }
-  console.log('dashbotOutgoingUrl' + dashbotOutgoingUrl)
-  var response = http.postUrl(dashbotOutgoingUrl, dashbotOutgoingJson, options);
-
+  // dashbot outgoing message integration
+  dashbot.logOutgoing(natoSpelling, "NatoSpell", $vivContext, natoJSON);
 
   // NatoSpellResult
   return {

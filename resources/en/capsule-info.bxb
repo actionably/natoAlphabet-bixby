@@ -16,9 +16,5 @@ capsule-info {
   dispatch-name (NATO Alphabet)
   dispatch-aliases {
     alias (Nato Spell)
-    alias (Military Alphabet)
-    alias (Phonetic Alphabet)
-    alias (Phonetic Translator)
-    alias (Phonetic Spell)
   }
 }
