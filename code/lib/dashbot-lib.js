@@ -14,7 +14,7 @@ module.exports = {
   "logIncoming": function(text, intent, $vivContext, platformJson) {
 
     // dashbot integration
-    var dashbotIncomingUrl = config.get('dashbotIncomingUrl') + dashbotApiKey;
+    var dashbotIncomingUrl = 'https://tracker.dashbot.io/track?platform=universal&v=10.1.1-rest&type=incoming&apiKey=' + dashbotApiKey;
     var dashbotIncomingJson = {
       userId: $vivContext.userId ? $vivContext.userId : 'no-id',
       text: text,
@@ -30,7 +30,7 @@ module.exports = {
 
   "logOutgoing": function(text, intent, $vivContext, platformJson) {
     // dashbot integration
-    var dashbotOutgoingUrl = config.get('dashbotOutgoingUrl') + dashbotApiKey;
+    var dashbotOutgoingUrl = 'https://tracker.dashbot.io/track?platform=universal&v=10.1.1-rest&type=outgoing&apiKey=' + dashbotApiKey;
     var dashbotOutgoingJson = {
       userId: $vivContext.userId ? $vivContext.userId : 'no-id',
       text: text,
