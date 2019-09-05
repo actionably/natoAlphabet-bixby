@@ -9,7 +9,7 @@
          content {
           single-line {
             text {
-              style(Label_M_Soft)
+              style(Detail_M_Soft)
               value ("You Said:")
             }
           }
@@ -18,7 +18,7 @@
           }
           single-line {
             text {
-              style (Label_M_Soft)
+              style (Detail_M_Soft)
               value ("Nato Spelling:")
             }
           }
