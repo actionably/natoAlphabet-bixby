@@ -5,6 +5,7 @@ var secret = require('secret');
 const dashbotApiKey = secret.get('dashbotApiKey');
 var baseDashbotUrl = "https://tracker.dashbot.io/track?platform=universal&v=10.1.1-rest";
 var options = {
+  cacheTime: 0,
   passAsJson: true, 
   returnHeaders: true,
   headers: { "Content-Type": "application/json"},
