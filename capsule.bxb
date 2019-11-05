@@ -16,4 +16,7 @@ capsule {
     section (GamesAndFun)
     section (Utilities)
   }  
+  permissions {
+  bixby-user-id-access
+  }
 }
