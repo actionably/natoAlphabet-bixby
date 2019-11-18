@@ -22,7 +22,7 @@ module.exports = {
 
     var dashbotIncomingUrl = baseDashbotUrl + '&type=incoming&apiKey=' + dashbotApiKey;
     var dashbotIncomingJson = {
-      userId: $vivContext.userId ? $vivContext.userId : 'no-id',
+      userId: $vivContext.bixbyUserId ? $vivContext.bixbyUserId  : 'no-id',
       text: text,
       intent: {
         name: intent
@@ -43,7 +43,7 @@ module.exports = {
 
     var dashbotOutgoingUrl = baseDashbotUrl + '&type=outgoing&apiKey=' + dashbotApiKey;
     var dashbotOutgoingJson = {
-      userId: $vivContext.userId ? $vivContext.userId : 'no-id',
+      userId: $vivContext.bixbyUserId  ? $vivContext.bixbyUserId  : 'no-id',
       text: text,
       intent: {
         name: intent
